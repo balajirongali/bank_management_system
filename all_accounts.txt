@@ -1,0 +1,3 @@
+Account Number: 1, Balance: 1500
+Account Number: 2, Balance: 400
+Account Number: 3, Balance: 0
